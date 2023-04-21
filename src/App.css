@@ -1,0 +1,53 @@
+body{
+  background-color: lightsteelblue ;
+  
+}
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.card-group {
+  padding-top: 50px;
+  padding-right: 10px;
+  display: inline-flex;
+  flex-direction: row;
+  
+  text-align: center;
+}
+.card-img-top {
+  width: fit-content;
+  margin: auto;
+}
+
+.title {
+  background-color: #61dafb;
+  font-size: 40px;
+  border: 2px;
+  border-color: aliceblue;
+  border-style: solid;
+  border-radius: 7px;
+  display: block;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.dropdown-toggle {
+  background-color: azure;
+  color: #282c34;
+}
+.container {
+  background-color:lightsteelblue;
+  border-radius: 10px;
+}
